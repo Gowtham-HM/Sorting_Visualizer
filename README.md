@@ -53,6 +53,9 @@ An interactive web application that visualizes how various sorting algorithms wo
     - 🟦 Turquoise: default
   - Swaps are animated using height exchanges with `setTimeout()` and `async/await`.
 
+## 🖥️ Demo
+👉 [Live Demo on GitHub Pages](https://gowtham-hm.github.io/Sorting_Visualizer/)
+
 
 
 
